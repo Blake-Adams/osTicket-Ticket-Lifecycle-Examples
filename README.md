@@ -37,7 +37,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 
-<img width="863" height="633" alt="image" src="https://github.com/user-attachments/assets/0bdd448b-e696-49ea-929a-3a78deade99e" />
+<img width="762" height="638" alt="image" src="https://github.com/user-attachments/assets/9f3ded0c-227a-4c2f-813f-4924649a1348" />
+
 
 
 
@@ -68,28 +69,36 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <p>
-<img width="878" height="641" alt="image" src="https://github.com/user-attachments/assets/b7a8e2c3-ca22-47c3-966e-f2f8c6f75176" />
+<img width="1159" height="637" alt="image" src="https://github.com/user-attachments/assets/5dc045bf-fdb2-42b5-8610-024001b2c5eb" />
+
 
 
 </p>
 <br />
-
-Support agent John notices in his portal that System Administrator Jane has left him a message and marked the ticket as closed.
+<h3 align="center">Resolution</h3>
+</p>
+<br />
+                                
+- Support agent John notices in his portal that System Administrator Jane has left him a message and marked the ticket as closed.
 </p>
 <br />
 <p>
-<img width="871" height="637" alt="image" src="https://github.com/user-attachments/assets/18cd4f50-0229-499f-a9ac-d3deef0c5a50" />
+<img width="898" height="640" alt="image" src="https://github.com/user-attachments/assets/c4452d7a-e609-47e7-a36c-9d0bd9f72e39" />
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-<p>
-<img width="871" height="637" alt="image" src="https://github.com/user-attachments/assets/18cd4f50-0229-499f-a9ac-d3deef0c5a50" />
+                                           
 
-</p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
+  
+- This example provided a simple scenario: a user creates a ticket, the ticket is assigned, communication takes place between agents, and the issue is ultimately resolved.
+
+- In practice, additional scenarios often occur during the ticket’s lifecycle. A ticket may need to be reassigned to another department, escalated due to severity, or transferred to a     more qualified agent or team depending on the business impact.
+
+- I hope this tutorial has given you a clearer overview of a ticket’s lifecycle. In a typical day, help desk agents may handle anywhere from 10 to 100 tickets, depending on the size of    the company.
+                                                
+
+
